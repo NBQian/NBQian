@@ -5,8 +5,6 @@
 
 - 👨‍💻My linkedin profile [https://www.linkedin.com/in/boqian-niu-733a78219/](https://www.linkedin.com/in/boqian-niu-733a78219/)
 
-- 💬 Ask me about **Python, Java**
-
 - 📫 How to reach me **e0774823@u.nus.edu**
 
 <h3 align="left">Connect with me:</h3>

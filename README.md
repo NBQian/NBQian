@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niu Boqian</h1>
 <h3 align="center">A penultimate year Computer Science and Mathematics student from National University of Singapore</h3>
 
-- 🌱 I’m currently learning **Linux, AI, ML, R**
+- 🌱 I’m currently learning **Linux, R, C, Bash, and Networking**
 
 - 👨‍💻My linkedin profile [https://www.linkedin.com/in/boqian-niu-733a78219/](https://www.linkedin.com/in/boqian-niu-733a78219/)
 

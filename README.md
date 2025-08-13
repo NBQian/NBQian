@@ -5,7 +5,7 @@
 
 - 👨‍💻My linkedin profile [https://www.linkedin.com/in/boqian-niu-733a78219/](https://www.linkedin.com/in/boqian-niu-733a78219/)
 
-- 📫 How to reach me **e0774823@u.nus.edu**
+- 📫 How to reach me **bn287@cornell.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

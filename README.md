@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niu Boqian</h1>
 <h3 align="center">A penultimate year Master's in Financial Engineering Student from Cronell University</h3>
-<h3 align="center">I have graduated with a doulbe major in Computer Science and Mathematics from National University of Singapore</h3>
+<h3 align="center">Graduated with a doulbe major in CS and Math from National University of Singapore</h3>
 
 - 🌱 I’m currently learning **Stochastic Calculus, R, Monte Carlo Simulation, and Fixed Income and Interest Rate Securities**
 
